@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Fragment ViewModel</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">WELCOME</string>
+    <string name="slide_1_desc">Data Pribadi Saya!!!</string>
+
+    <string name="slide_2_title">Biodata</string>
+    <string name="slide_2_desc">Name = In\'amy Fadlyyah Takariyanti</string>
+    <string name="slide_2_desc2">Place, Date of Birth= Tuban, 27 Januari 2003</string>
+    <string name="slide_2_desc3">Gender = Female</string>
+    <string name="slide_2_desc4">Nationality = Indonesia</string>
+
+    <string name="slide_3_title">Personal Detail</string>
+    <string name="slide_3_desc">Saya In\'amy Fadlyyah Takariyanti, biasa dipanggil Amy.
+        Saya bersekolah di SMK TELKOM MALANG kelas XI RPL3
+    </string>
+
+    <string name="slide_4_title">Contact Detail</string>
+    <string name="slide_4_desc">No. Telp = 081452732319</string>
+    <string name="slide_4_desc2">Email = in\'amy_fadlyyah_28rpl@student.smktelkom-mlg.sch.id</string>
+    <string name="slide_4_desc3">Instagram = @amytaakrynti</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
